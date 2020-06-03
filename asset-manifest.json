@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.023769af.css",
-  "main.css.map": "static/css/main.023769af.css.map",
-  "main.js": "static/js/main.dbc160d7.js",
-  "main.js.map": "static/js/main.dbc160d7.js.map",
+  "main.css": "static/css/main.6bf8262e.css",
+  "main.css.map": "static/css/main.6bf8262e.css.map",
+  "main.js": "static/js/main.e63cd6d8.js",
+  "main.js.map": "static/js/main.e63cd6d8.js.map",
   "static\\media\\AP-CHAP03-PHOTO.png": "static/media/AP-CHAP03-PHOTO.3b60cf81.png",
   "static\\media\\AP-CHAP04-CITATIONGERD.png": "static/media/AP-CHAP04-CITATIONGERD.acf1888a.png",
   "static\\media\\CHAP01-OUVERTURE.png": "static/media/CHAP01-OUVERTURE.072a8053.png",
@@ -147,5 +147,6 @@
   "static\\media\\slide9_infog.png": "static/media/slide9_infog.527b984b.png",
   "static\\media\\thomas.jpg": "static/media/thomas.e5f47643.jpg",
   "static\\media\\timothee.jpg": "static/media/timothee.648b5d77.jpg",
-  "static\\media\\timothee.png": "static/media/timothee.f9371886.png"
+  "static\\media\\timothee.png": "static/media/timothee.f9371886.png",
+  "static\\media\\timothee_mobile.jpg": "static/media/timothee_mobile.e4249cb8.jpg"
 }
